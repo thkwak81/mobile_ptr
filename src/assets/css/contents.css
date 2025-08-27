@@ -1,9 +1,8 @@
 #container {
-	padding-top:48px;
 	background:#000;
 }
 header {
-	position:fixed;
+	position:sticky;
 	top:0;
 	width:100%;
 	padding:14px 0;
