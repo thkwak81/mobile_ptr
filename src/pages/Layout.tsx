@@ -1,6 +1,6 @@
 import React, {Suspense} from 'react';
 import {Outlet} from 'react-router-dom';
-import PullToRefresh from '../components/PulltoRefresh';
+import PullToRefresh from '../components/PullToRefresh';
 
 const Layout: React.FC = () => {
 	return (
