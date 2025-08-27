@@ -1,19 +1,20 @@
 {
   "name": "mobile_ptr",
-	"homepage": "https://thkwak81.github.io/mobile_ptr",
+  "homepage": "https://thkwak81.github.io/mobile_ptr",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-		"deploy": "vite build && gh-pages -d dist",
+    "deploy": "vite build && gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
