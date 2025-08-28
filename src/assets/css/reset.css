@@ -45,7 +45,6 @@ input:not([type="checkbox"], [type="radio"]) {padding:5px 10px;}
 input, textarea {font-weight:300;}
 input:placeholder,
 textarea:placeholder {font-weight:300;}
-select {min-width:70px; text-align:right; padding:5px 28px 5px 10px; background:#fff url('../images/common/icon_arrow_down.png') center right 4px no-repeat;}
 option {text-align:center;}
 textarea {resize:none;}
 * {box-sizing:border-box;}

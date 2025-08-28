@@ -11,11 +11,7 @@ const routes: RouteObject[] = [
 		children: [
 			{path: '/', element: <Home />}
 		],
-	}
-];
-
-const pages = [
-	{route: '/'},
+	},
 ];
 
 export default routes;
